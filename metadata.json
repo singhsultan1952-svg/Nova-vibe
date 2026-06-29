@@ -1,0 +1,6 @@
+{
+  "name": "Compare Anything",
+  "description": "Compare any two options, items, or ideas. Get tailored scores, a comprehensive breakdown of criteria, pros & cons, and a final verdict powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
